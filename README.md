@@ -86,15 +86,15 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=simple-tech-with-tarunshow_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simple-tech-with-tarun&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=simple-tech-with-tarun&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
