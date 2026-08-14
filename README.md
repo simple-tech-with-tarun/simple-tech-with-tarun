@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./linkedin-banner.png" alt="Logic is Universal. Logic is God." width="100%">
+  <img src="./assets/linkedin-banner.png" alt="Logic is Universal. Logic is God." width="100%">
 </p>
 
 <h2 align="center">👋 Hi, I'm Tarun Bansal</h2>
@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <i>Building reliable infrastructure, automating delivery, and applying logic to complex systems.</i>
+  <i>Building reliable cloud infrastructure, automating delivery, and applying logic to complex systems.</i>
 </p>
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and DevSecOps**.
 
@@ -31,37 +31,21 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
 ## 🛠️ Technologies & Tools
 
 ### ☁️ Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
-</p>
+Azure
 
 ### 🏗️ Infrastructure as Code
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
-</p>
-
 **Terraform • Bicep**
 
 ### 🔄 CI/CD & Version Control
-**Git • GitHub • GitHub Actions • Azure DevOps • Jenkins**
+**Git • GitHub • GitHub Actions • Azure DevOps**
 
 ### 📦 Containers & Orchestration
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
-</p>
-
 **Docker • Kubernetes • Helm**
 
 ### 🔐 DevSecOps
 **Checkov • Semgrep • Trivy • Gitleaks • TFLint**
 
 ### 📊 Monitoring & Observability
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" alt="Prometheus"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" alt="Grafana"/>
-</p>
-
 **Prometheus • Grafana**
 
 ### ⚙️ Automation & Scripting
@@ -73,11 +57,11 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
 
 <p align="left">
   <!-- Replace the placeholder below with your LinkedIn profile -->
-  <a href="www.linkedin.com/in/er-tarun-bansal">
+  <a href="https://www.linkedin.com/in/er-tarun-bansal">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:er.tarunbansal0008@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=microsoft&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -86,11 +70,11 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simple-tech-with-tarunshow_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=simple-tech-with-tarun&show_icons=true&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simple-tech-with-tarun&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=simple-tech-with-tarun&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -136,7 +120,3 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
 </p>
 
 ---
-
-<p align="center">
-  <sub>Built with logic, automation, and a little curiosity. 🚀</sub>
-</p>
