@@ -24,7 +24,7 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
 - 🔐 Integrating **DevSecOps and security scanning** into delivery workflows
 - 📦 Working with **containers and Kubernetes**
 - 🤖 Exploring **AI-assisted DevOps and platform engineering**
-- 🧠 Believing that good engineering starts with **clarity, reasoning, and automation**
+- 🧠 Applying **clarity, reasoning, and automation** to engineering problems
 
 ---
 
@@ -57,11 +57,11 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/er-tarun-bansal">
-    <img src="./assets/linkedin.webp" width="32" alt="LinkedIn"/>
+    <img src="./assets/linkedin.png" width="32" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:er.tarunbansal0008@outlook.com">
-    <img src="./assets/outlook.webp" width="32" alt="Outlook Email"/>
+    <img src="./assets/Microsoft_Outlook.png" width="32" alt="Outlook Email"/>
   </a>
   &nbsp;
   <a href="mailto:er.tarunbansal0008@outlook.com">er.tarunbansal0008@outlook.com</a>
@@ -72,17 +72,13 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=simple-tech-with-tarun&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=simple-tech-with-tarun&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=simple-tech-with-tarun&show_icons=true&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=simple-tech-with-tarun&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=simple-tech-with-tarun&hide_border=true" alt="GitHub Streak"/>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -120,5 +116,3 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
   <br>
   <b>LOGIC IS GOD.</b>
 </p>
-
----
