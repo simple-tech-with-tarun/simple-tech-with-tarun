@@ -56,7 +56,7 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
 ## 🔗 Connect With Me
 
 [![LinkedIn](./assets/linkedin.png)](https://www.linkedin.com/in/er-tarun-bansal) &nbsp; &nbsp;
-[![Outlook](./assets/Microsoft_Outlook.png)](mailto:er.tarunbansal0008@outlook.com)
+[![Outlook](./assets/Microsoft_Outlook.png)](mailto:er.tarunbansal0008@outlook.com?subject=Professional%20Connection%20%E2%80%94%20Tarun%20Bansal)
 
 ---
 
