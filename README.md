@@ -31,7 +31,7 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
 ## 🛠️ Technologies & Tools
 
 ### ☁️ Cloud
-Azure
+**Azure**
 
 ### 🏗️ Infrastructure as Code
 **Terraform • Bicep**
