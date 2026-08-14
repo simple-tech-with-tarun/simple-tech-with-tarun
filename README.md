@@ -63,7 +63,7 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=simple-tech-with-tarun&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=simple-tech-with-tarun&show_icons=true&hide_border=true&include_all_commits=true&hide=stars,prs,issues,contribs" alt="GitHub Stats" height="170"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=simple-tech-with-tarun&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
