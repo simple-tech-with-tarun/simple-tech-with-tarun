@@ -60,7 +60,7 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
     <img src="./assets/linkedin.png" width="32" alt="LinkedIn"/>
   </a>
   <a href="mailto:er.tarunbansal0008@outlook.com">
-    <img src="./assets/outlook.png" width="32" alt="Outlook Email"/>
+    <img src="./assets/Microsoft_Outlook.png" width="32" alt="Outlook Email"/>
   </a>
 </p>
 
