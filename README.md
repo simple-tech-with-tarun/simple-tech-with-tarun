@@ -68,7 +68,7 @@ I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=simple-tech-with-tarun&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=simple-tech-with-tarun&hide_border=true&utm_source=github" alt="GitHub Streak"/>
 </p>
 
 ---
