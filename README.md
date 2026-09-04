@@ -2,14 +2,20 @@
   <img src="./assets/GitHub-banner_1.png" alt="Logic is Universal. Logic is God." width="100%">
 </p>
 
-<h2 align="center">👋 Hi, I'm Tarun Bansal</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Azure+%7C+AWS+%7C+Terraform+%7C+Bicep;GitHub+Actions+%7C+Azure+DevOps;CI%2FCD+%7C+DevSecOps+%7C+Automation;Cloud+Infrastructure+%7C+Platform+Engineering" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=34&pause=999999&color=181717&center=true&vCenter=true&width=600&lines=Tarun+Bansal" alt="Tarun Bansal">
 </p>
 
 <p align="center">
   <i>Building reliable cloud infrastructure, automating delivery, and applying logic to complex systems.</i>
+</p>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&pause=999999&color=2563EB&center=true&vCenter=true&width=600&lines=DevOps+Engineer" alt="DevOps Engineer">
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&center=true&vCenter=true&width=850&lines=Azure+%7C+AWS+%7C+Terraform+%7C+Bicep;GitHub+Actions+%7C+Azure+DevOps;CI%2FCD+%7C+DevSecOps+%7C+Automation;Cloud+Infrastructure+%7C+Platform+Engineering" alt="DevOps technologies">
 </p>
 
 <p align="center">
