@@ -3,18 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=36&duration=3000&pause=999999&color=181717&center=true&vCenter=true&width=700&lines=Tarun+Bansal" alt="Tarun Bansal">
-</p>
-
-<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=36&duration=3000&pause=999999&color=181717&center=true&vCenter=true&width=700&lines=Tarun+Bansal" alt="Tarun Bansal"><br>
   <strong>Building reliable cloud infrastructure, automating delivery, and applying logic to complex systems.</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=3000&pause=999999&color=334155&center=true&vCenter=true&width=450&lines=DevOps+Engineer" alt="DevOps Engineer">
-</p>
-
-<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=3000&pause=999999&color=334155&center=true&vCenter=true&width=450&lines=DevOps+Engineer" alt="DevOps Engineer"><br>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=64748B&center=true&vCenter=true&width=850&lines=Azure+%7C+AWS+%7C+Terraform+%7C+Bicep;GitHub+Actions+%7C+Azure+DevOps;CI%2FCD+%7C+DevSecOps+%7C+Automation;Cloud+Infrastructure+%7C+Platform+Engineering" alt="DevOps technologies">
 </p>
 
