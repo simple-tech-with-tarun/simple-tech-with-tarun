@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/GitHub-banner_1.png" alt="Logic is Universal. Logic is God." width="100%">
+  <img src="./assets/GitHub-banner.png" alt="Logic is Universal. Logic is God." width="100%">
 </p>
 
 <p align="center">
