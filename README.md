@@ -12,15 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=64748B&center=true&vCenter=true&width=850&lines=Azure+%7C+AWS+%7C+Terraform+%7C+Bicep;GitHub+Actions+%7C+Azure+DevOps;CI%2FCD+%7C+DevSecOps+%7C+Automation;Cloud+Infrastructure+%7C+Platform+Engineering" alt="DevOps technologies">
 </p>
 
-<p align="center">
-  <a href="https://github.com/simple-tech-with-tarun">
-    <img src="https://img.shields.io/github/followers/simple-tech-with-tarun?label=Followers&style=flat" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/simple-tech-with-tarun">
-    <img src="https://img.shields.io/github/stars/simple-tech-with-tarun?label=Stars&style=flat" alt="GitHub stars">
-  </a>
-</p>
-
 ---
 
 ## About Me
