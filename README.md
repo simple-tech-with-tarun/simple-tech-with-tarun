@@ -25,15 +25,15 @@
 
 ## About Me
 
-I'm a DevOps Engineer focused on **cloud infrastructure, automation, CI/CD, and DevSecOps**.
+I'm a DevOps Engineer focused on **building reliable cloud infrastructure, automating delivery, and embedding security into engineering workflows**.
 
-- ☁️ Working with **Microsoft Azure** and cloud-native infrastructure
-- 🏗️ Building infrastructure with **Terraform & Bicep**
-- 🔄 Designing and automating **CI/CD pipelines**
-- 🔐 Integrating **DevSecOps and security scanning** into delivery workflows
-- 📦 Working with **containers and Kubernetes**
-- 🤖 Exploring **AI-assisted DevOps and platform engineering**
-- 🧠 Applying **clarity, reasoning, and automation** to engineering problems
+* ☁️ **Designing** cloud infrastructure and networking with **Microsoft Azure**
+* 🏗️ **Building** reproducible infrastructure with **Terraform & Bicep**
+* 🔄 **Automating** CI/CD workflows with **GitHub Actions & Azure DevOps**
+* 🔐 **Integrating** security scanning and DevSecOps practices into delivery pipelines
+* 📦 **Working with** containers, **Kubernetes**, and platform tooling
+* 🤖 **Exploring** AI-assisted DevOps and platform engineering
+* 🧠 **Applying** clarity, reasoning, and automation to complex engineering problems
 
 ---
 
