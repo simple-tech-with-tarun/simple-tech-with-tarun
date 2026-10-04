@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=3000&pause=999999&color=334155&center=true&vCenter=true&width=450&lines=DevOps+Engineer" alt="DevOps Engineer"><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=64748B&center=true&vCenter=true&width=850&lines=Azure+%7C+AWS+%7C+Terraform+%7C+Bicep;GitHub+Actions+%7C+Azure+DevOps;CI%2FCD+%7C+DevSecOps+%7C+Automation;Cloud+Infrastructure+%7C+Platform+Engineering" alt="DevOps technologies">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=64748B&center=true&vCenter=true&width=850&lines=Azure+%7C+Terraform+%7C+Bicep;GitHub+Actions+%7C+Azure+DevOps;CI%2FCD+%7C+DevSecOps+%7C+Automation;Cloud+Infrastructure+%7C+Platform+Engineering" alt="DevOps technologies">
 </p>
 
 ---
@@ -23,7 +23,7 @@ I'm a DevOps Engineer focused on **building reliable cloud infrastructure, autom
 * 🔄 **Automating** CI/CD workflows with **GitHub Actions & Azure DevOps**
 * 🔐 **Integrating** security scanning and DevSecOps practices into delivery pipelines
 * 📦 **Working with** containers, **Kubernetes**, and platform tooling
-* 🤖 **Exploring** AI-assisted DevOps and platform engineering
+* 🤖 **Applying** AI-assisted workflows to DevOps and platform engineering
 * 🧠 **Applying** clarity, reasoning, and automation to complex engineering problems
 
 ---
@@ -34,7 +34,6 @@ I'm a DevOps Engineer focused on **building reliable cloud infrastructure, autom
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
 </p>
 
 ### 🏗️ Infrastructure as Code
@@ -90,14 +89,29 @@ I'm a DevOps Engineer focused on **building reliable cloud infrastructure, autom
 
 ## 🚀 Featured Projects
 
-<!-- Replace these with your actual repositories -->
-
 | Project | Description |
 |---|---|
-| 🔹 **Azure Landing Zone** | Azure infrastructure and networking foundation using Infrastructure as Code |
-| 🔹 **DevSecOps Pipeline** | CI/CD pipeline integrating security and infrastructure validation |
-| 🔹 **Terraform Labs** | Practical Terraform modules, patterns, and Azure infrastructure |
-| 🔹 **Git & DevOps Learning** | Practical Git, GitHub and DevOps workflows |
+| 🔹 **[Terraform Azure Lab](https://github.com/simple-tech-with-tarun/terraform-azure-lab)** | Hands-on Azure infrastructure with Terraform, including remote state, managed identity, RBAC, and reusable infrastructure patterns |
+| 🔹 **[Azure Networking Lab](https://github.com/simple-tech-with-tarun/azure-networking-lab)** | Practical Azure networking covering VNets, subnets, NSGs, Application Gateway, Azure Front Door, and network security |
+| 🔹 **[Terraform Fundamentals](https://github.com/simple-tech-with-tarun/terraform-fundamentals)** | Terraform fundamentals, core concepts, resource management, variables, modules, state, and practical Infrastructure as Code patterns |
+| 🔹 **[GitHub Actions Lab](https://github.com/simple-tech-with-tarun/github-actions-lab)** | Practical GitHub Actions workflows covering CI/CD concepts, jobs, environments, artifacts, reusable workflows, and automation |
+| 🔹 **[Enterprise DevOps Infrastructure Simulation](https://github.com/simple-tech-with-tarun/enterprise-devops-infra-sim)** | Enterprise-style Azure infrastructure using Terraform with networking, security boundaries, compute, and infrastructure automation |
+
+---
+
+## 🔨 What I'm Building
+
+I build practical cloud infrastructure and DevOps projects focused on **automation, reliability, security, and repeatable engineering practices**.
+
+Current areas of work include:
+
+- ☁️ Azure infrastructure and cloud networking
+- 🏗️ Terraform-based Infrastructure as Code
+- 🔐 Identity, RBAC, and secure infrastructure patterns
+- 🔄 CI/CD automation with GitHub Actions
+- 🏢 Azure platform and Landing Zone architecture
+- 🛡️ DevSecOps and infrastructure security
+- 🤖 AI-assisted DevOps and platform engineering
 
 ---
 
@@ -117,6 +131,10 @@ I'm a DevOps Engineer focused on **building reliable cloud infrastructure, autom
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=simple-tech-with-tarun&hide_border=true&utm_source=github" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simple-tech-with-tarun&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
