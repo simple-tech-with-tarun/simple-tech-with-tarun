@@ -125,16 +125,12 @@ Current areas of work include:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=simple-tech-with-tarun&show_icons=true&hide_border=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=simple-tech-with-tarun&show_icons=true&hide_border=true&include_all_commits=true&hide=stars&hide_rank=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=simple-tech-with-tarun&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=simple-tech-with-tarun&hide_border=true&utm_source=github" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simple-tech-with-tarun&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
