@@ -89,13 +89,20 @@ I'm a DevOps Engineer focused on **building reliable cloud infrastructure, autom
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| **[Terraform Azure Lab](https://github.com/simple-tech-with-tarun/terraform-azure-lab)**             | Hands-on Azure infrastructure with Terraform, including remote state, managed identity, RBAC, and reusable infrastructure patterns |
-| **[Azure Networking Lab ](https://github.com/simple-tech-with-tarun/azure-networking-lab)**          | Practical Azure networking covering VNets, subnets, NSGs, Application Gateway, Azure Front Door, and network security |
-| **[Terraform Fundamentals](https://github.com/simple-tech-with-tarun/terraform-fundamentals)**       | Terraform fundamentals, core concepts, resource management, variables, modules, state, and practical Infrastructure as Code patterns |
-| **[GitHub Actions Lab](https://github.com/simple-tech-with-tarun/github-actions-lab)**               | Practical GitHub Actions workflows covering CI/CD concepts, jobs, environments, artifacts, reusable workflows, and automation |
-| **[Enterprise DevOps Lab  ](https://github.com/simple-tech-with-tarun/enterprise-devops-infra-sim)** | Enterprise-style Azure infrastructure using Terraform with networking, security boundaries, compute, and infrastructure automation |
+**[Terraform Azure Lab](https://github.com/simple-tech-with-tarun/terraform-azure-lab)**  
+Hands-on Azure infrastructure with Terraform, including remote state, managed identity, RBAC, and reusable infrastructure patterns.
+
+**[Azure Networking Lab](https://github.com/simple-tech-with-tarun/azure-networking-lab)**  
+Practical Azure networking covering VNets, subnets, NSGs, Application Gateway, Azure Front Door, and network security.
+
+**[Terraform Fundamentals](https://github.com/simple-tech-with-tarun/terraform-fundamentals)**  
+Terraform fundamentals, core concepts, resource management, variables, modules, state, and practical Infrastructure as Code patterns.
+
+**[GitHub Actions Lab](https://github.com/simple-tech-with-tarun/github-actions-lab)**  
+Practical GitHub Actions workflows covering CI/CD concepts, jobs, environments, artifacts, reusable workflows, and automation.
+
+**[Enterprise DevOps Infrastructure Simulation](https://github.com/simple-tech-with-tarun/enterprise-devops-infra-sim)**  
+Enterprise-style Azure infrastructure using Terraform with networking, security boundaries, compute, and infrastructure automation.
 
 ---
 
