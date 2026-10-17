@@ -173,3 +173,15 @@ Current areas of work include:
 </p>
 
 ---
+
+### © Copyright & Usage
+
+Original technical content, Terraform configurations, tutorials, diagrams, and other materials created and published by **Tarun Bansal**, under the GitHub identity **Simple Tech With Tarun**, may be protected by applicable copyright laws.
+
+Public availability does not automatically grant permission to reproduce, republish, or commercially exploit original materials.
+
+Please review the [Copyright & Intellectual Property Notice](https://github.com/simple-tech-with-tarun/simple-tech-with-tarun/blob/main/COPYRIGHT.md) before reusing my original work.
+
+© 2026 Tarun Bansal · Simple Tech With Tarun
+
+---
