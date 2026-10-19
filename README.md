@@ -1,8 +1,7 @@
+<sub>🛡️ © 2026 Tarun Bansal · Simple Tech With Tarun. All rights reserved, except where otherwise stated. See the <a href="https://github.com/simple-tech-with-tarun/simple-tech-with-tarun/blob/main/COPYRIGHT.md">Copyright & Intellectual Property Notice</a>.</sub>
 <p align="center">
   <img src="./assets/GitHub-banner.png" alt="Logic is Universal. Logic is God." width="100%">
 </p>
-
-<sub>🛡️ © 2026 Tarun Bansal · Simple Tech With Tarun. All rights reserved, except where otherwise stated. See the <a href="https://github.com/simple-tech-with-tarun/simple-tech-with-tarun/blob/main/COPYRIGHT.md">Copyright & Intellectual Property Notice</a>.</sub>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=36&duration=3000&pause=999999&color=181717&center=true&vCenter=true&width=700&lines=Tarun+Bansal" alt="Tarun Bansal"><br>
