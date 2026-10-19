@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/GitHub-banner.png" alt="Logic is Universal. Logic is God." width="100%">
 </p>
-
+<sub>🛡️ © 2026 Tarun Bansal · Simple Tech With Tarun. All rights reserved, except where otherwise stated. See the [Copyright & Intellectual Property Notice](https://github.com/simple-tech-with-tarun/simple-tech-with-tarun/blob/main/COPYRIGHT.md).</sub>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=36&duration=3000&pause=999999&color=181717&center=true&vCenter=true&width=700&lines=Tarun+Bansal" alt="Tarun Bansal"><br>
   <strong>Building reliable cloud infrastructure, automating delivery, and applying logic to complex systems.</strong>
@@ -174,14 +174,12 @@ Current areas of work include:
 
 ---
 
-### © Copyright & Usage
-
-Original technical content, Terraform configurations, tutorials, diagrams, and other materials created and published by **Tarun Bansal**, under the GitHub identity **Simple Tech With Tarun**, may be protected by applicable copyright laws.
-
-Public availability does not automatically grant permission to reproduce, republish, or commercially exploit original materials.
-
-Please review the [Copyright & Intellectual Property Notice](https://github.com/simple-tech-with-tarun/simple-tech-with-tarun/blob/main/COPYRIGHT.md) before reusing my original work.
-
-© 2026 Tarun Bansal · Simple Tech With Tarun
-
----
+> **🛡️ Copyright & Intellectual Property**
+>
+> © 2026 Tarun Bansal · Simple Tech With Tarun. All rights reserved, except where otherwise stated.
+>
+> This repository may contain original technical documentation, tutorials, source code, Terraform configurations, scripts, diagrams, and other materials created and published by Tarun Bansal under the GitHub identity **Simple Tech With Tarun**.
+>
+> Public availability does not automatically grant permission to reproduce, republish, redistribute, or commercially exploit original materials. Please review the [Copyright & Intellectual Property Notice](https://github.com/simple-tech-with-tarun/simple-tech-with-tarun/blob/main/COPYRIGHT.md) before reusing such materials.
+>
+> Any explicit repository-level or file-level license governs the materials it covers. Third-party content and contributions remain subject to their respective ownership rights, licenses, and applicable terms.
