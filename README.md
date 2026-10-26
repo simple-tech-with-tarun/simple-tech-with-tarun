@@ -138,7 +138,7 @@ Current areas of work include:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=simple-tech-with-tarun&hide_border=true&utm_source=github" alt="GitHub Streak"/>
+ <img src="https://streak-stats.demolab.com/?user=simple-tech-with-tarun&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
