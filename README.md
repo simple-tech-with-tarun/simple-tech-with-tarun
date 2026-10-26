@@ -133,7 +133,7 @@ Current areas of work include:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=simple-tech-with-tarun&show_icons=true&hide_border=true&include_all_commits=true&hide=stars&hide_rank=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=simple-tech-with-tarun&show_icons=true&hide_border=true&include_all_commits=true&hide=stars&hide_rank=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&refresh=1" alt="GitHub Stats" height="170" />
  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=simple-tech-with-tarun&layout=compact&langs_count=10&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
