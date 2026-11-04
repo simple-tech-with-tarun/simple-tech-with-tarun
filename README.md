@@ -102,6 +102,9 @@ Terraform fundamentals, core concepts, resource management, variables, modules, 
 **[GitHub Actions Lab](https://github.com/simple-tech-with-tarun/github-actions-lab)**  
 Practical GitHub Actions workflows covering CI/CD concepts, jobs, environments, artifacts, reusable workflows, and automation.
 
+**[Git Foundations](https://github.com/simple-tech-with-tarun/git-foundations)**  
+A hands-on Git learning repository covering core Git concepts, branching and merging, collaboration workflows, GitHub integration, debugging, history investigation, repository forensics, and advanced version-control techniques through practical exercises and dedicated lab projects.
+
 **[Enterprise DevOps Infrastructure Simulation](https://github.com/simple-tech-with-tarun/enterprise-devops-infra-sim)**  
 Enterprise-style Azure infrastructure using Terraform with networking, security boundaries, compute, and infrastructure automation.
 
